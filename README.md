@@ -1,7 +1,8 @@
 # 👋 Hello! I'm André Ferreira  
 
-🎓 **Obsessed with tech!** 
-🚀 Passionate about what tech can bring to the world. 
+🖥️ **Junior Software Developer | Full Stack Trainee @ Helppier**\
+🌱 Currently finishing my degree on Computer Engineering.\
+🚀 Passionate about what tech can bring to the world.
 
 ---
 
@@ -92,18 +93,3 @@ Tool for tracking Spotify activity and stats.
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/andreferreira04)  
 
 ---
-
-<!--
-**andreferreira04/andreferreira04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
