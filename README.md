@@ -1,8 +1,8 @@
 # 👋 Hello! I'm André Ferreira  
 
-🖥️ **Junior Software Developer | Full Stack Developer @ Helppier**
+🖥️ **Junior Full-Stack Developer | Full Stack Developer @ Helppier**
 
-🌱 Currently finishing my degree on Computer Engineering.\
+🎓 Bachelor's degree in Computer Engineering.\
 🚀 Passionate about what tech can bring to the world.
 
 ---
