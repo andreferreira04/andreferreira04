@@ -39,7 +39,6 @@
 ### CI
 
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
 
 ### Cloud System
 
@@ -74,19 +73,10 @@
 
 ## 🌟 Featured Projects  
 
-### 🎮 [SpoTracker](https://github.com/andreferreira04/spoTracker)  
+### [SpoTracker](https://github.com/andreferreira04/spoTracker)  
 Tool for tracking Spotify activity and stats.
 
 🔜 *More projects coming soon!*  
-
----
-
-## 📈 GitHub Stats  
-
-<a href="https://github.com/andreferreira04">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreferreira04&show_icons=true&theme=dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreferreira04&layout=compact&theme=dark&hide_border=true" />
-</a>
 
 ---
 
